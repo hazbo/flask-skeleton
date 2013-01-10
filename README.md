@@ -29,7 +29,7 @@ To install Pip, you can either use:
 
 Or:
 
-	$ easy_install pip
+	$ sudo easy_install pip
 
 As for the rest:
 
