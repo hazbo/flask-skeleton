@@ -19,9 +19,9 @@ Once you have the code, you can simply run the app using the following:
 
 You can build from this in whatever way you wish, adding a new route is as simple as:
 
-@app.route('contact')
-def contact():
-	render_template('contact.html')
+	@app.route('contact')
+	def contact():
+		render_template('contact.html')
 
 The above could be used to load a contact page.
 
