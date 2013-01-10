@@ -14,6 +14,7 @@ I use virtualenv to install Flask, so you could do the following. (This will ins
 	$ git clone https://github.com/harry-lawrence/flask-skeleton.git src
 	$ virtualenv src
 	$ cd src
+	$ . bin/activate
 	$ sudo pip install Flask
 	$ cd app
 	$ python app.py
@@ -38,6 +39,7 @@ As for the rest:
 	$ git clone https://github.com/harry-lawrence/flask-skeleton.git src
 	$ virtualenv src
 	$ cd src
+	$ . bin/activate
 	$ sudo pip install Flask
 	$ cd app
 	$ python app.py
