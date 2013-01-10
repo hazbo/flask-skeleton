@@ -16,7 +16,7 @@ I use virtualenv to install Flask, so you could do the following. (This will ins
 	$ cd src
 	$ . bin/activate
 	$ sudo pip install Flask
-	$ cd app
+	$ cd src/app
 	$ python app.py
 
 ### OS X
@@ -41,7 +41,7 @@ As for the rest:
 	$ cd src
 	$ . bin/activate
 	$ sudo pip install Flask
-	$ cd app
+	$ cd src/app
 	$ python app.py
 
 ### Windows
