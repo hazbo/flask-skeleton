@@ -42,6 +42,10 @@ As for the rest:
 	$ cd app
 	$ python app.py
 
+### Windows
+
+Sorry it's been too long since I last used Windows. Not too sure what it would entail. If you know and would like to help, be sure to make a pull request!
+
 The above will install everything you need, get you setup with Python/Pip/Virtualenv/Flask and the sample skeleton application.
 
 ## Extra
