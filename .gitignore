@@ -2,3 +2,7 @@
 .vagrant
 Vagrantfile
 provision/
+src/bin/
+src/bin/
+src/include/
+src/lib
